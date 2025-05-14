@@ -16,3 +16,5 @@ employment in Java enterprise-level development as a junior software engineer.
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/tim-n-77772a2a9/)
