@@ -11,7 +11,7 @@ employment in Java enterprise-level development as a junior software engineer.
 
 ## Current Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/ddc-java-21/hello-world-tanickell)
 
 * Hello World: Android app
 
