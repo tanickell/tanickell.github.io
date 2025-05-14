@@ -11,4 +11,8 @@ employment in Java enterprise-level development as a junior software engineer.
 
 ## Current Projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
